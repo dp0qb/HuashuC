@@ -698,3 +698,9 @@ https://travel.qunar.com/p-cs300139-qianxinan-jingdian
 https://travel.qunar.com/p-cs300217-qiqihaer-jingdian
 龙岩
 https://travel.qunar.com/p-cs299821-longyan-jingdian
+七台河
+https://travel.qunar.com/p-cs300161-qitaihe-jingdian
+万宁
+https://travel.qunar.com/p-cs300187-wanning-jingdian
+三亚
+https://travel.qunar.com/p-cs300188-sanya-jingdian
